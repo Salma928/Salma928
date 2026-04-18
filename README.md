@@ -1,6 +1,6 @@
 # Hi, I'm Salma 👋
 
-🎓 Graduate Engineer in Electronic & Automatic Systems, National School of Applied Sciences , Morocco  
+🎓 Graduate Engineer in Electronic & Automatic Systems, @ National School of Applied Sciences , Morocco  
 📍 M2 in Measurement & Information Processing @ Université de Lorraine, France  
 🏢 Currently: AI Intern (Generative AI & LLMs)  
 🎯 Seeking: CDI in AI/ML Engineering from October 2026  
