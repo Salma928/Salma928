@@ -1,13 +1,13 @@
-# Hi, I'm Salma 👋
+# Hi, I'm Salma 
 
-🎓 Graduate Engineer in Electronic & Automatic Systems, @ National School of Applied Sciences , Morocco  
-📍 M2 in Measurement & Information Processing @ Université de Lorraine, France  
-🏢 Currently: AI Intern (Generative AI & LLMs)  
-🎯 Seeking: CDI in AI/ML Engineering from October 2026  
+Graduate Engineer in Electronic & Automatic Systems, @ National School of Applied Sciences , Morocco  
+M2 in Measurement & Information Processing @ Université de Lorraine, France  
+Currently: AI Intern (Generative AI & LLMs)  
+Seeking: CDI in AI/ML Engineering from October 2026  
 
 ---
 
-## 🤖 What I build
+## What I build
 
 I design and develop AI systems that work in the real world — from NLP models and RAG pipelines
 to predictive maintenance solutions. I'm passionate about turning data into intelligent,
@@ -15,9 +15,9 @@ explainable and scalable solutions.
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔤 [NLP Sentiment Analysis](https://github.com/Salma928/nlp-sentiment-analysis)
+### [NLP Sentiment Analysis](https://github.com/Salma928/nlp-sentiment-analysis)
 > Multilingual sentiment classifier fine-tuned on SST-2 (67k sentences)
 
 - **Model**: XLM-RoBERTa — supports **100 languages**
@@ -26,7 +26,7 @@ explainable and scalable solutions.
 
 ---
 
-### ⚙️ [Predictive Maintenance](https://github.com/Salma928/ml-predictive-maintenance)
+### [Predictive Maintenance](https://github.com/Salma928/ml-predictive-maintenance)
 > Industrial anomaly detection on NASA CMAPSS FD001 dataset
 
 - **Dataset**: 20,631 sensor measurements | 100 jet engines
@@ -35,7 +35,7 @@ explainable and scalable solutions.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Domain | Tools |
 |--------|-------|
